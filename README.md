@@ -135,3 +135,5 @@ will not need to do this.
 [lightning_composer_project]: https://github.com/acquia/lightning-project
 [demo_videos]: http://lightning.acquia.com/blog/lightning-user-stories-demonstrations "Lightning user story demonstration videos"
 [sub-profile documentation]: https://github.com/acquia/lightning/wiki/Lightning-as-a-Base-Profile "Lightning sub-profile documentation"
+
+# DevDesktop 3 support
